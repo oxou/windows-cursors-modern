@@ -2,8 +2,6 @@
 
 Remake of the classic and aero cursors from Microsoft Windows
 
-**INFO**: An updated release is currently in the works.
-
 <img src="images/cover.png" width="100%">
 
 # Installation
